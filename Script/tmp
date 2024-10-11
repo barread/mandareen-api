@@ -1,0 +1,1 @@
+GRANT CREATE DROP DELETE UPDATE ON mandareen.* TO 'test'@'localhost' IDENTIFIED BY 'toto'

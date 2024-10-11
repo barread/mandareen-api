@@ -1,0 +1,236 @@
+DELIMITER $$
+CREATE TRIGGER admin_id_insert
+BEFORE INSERT ON admin
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER pro_id_insert
+BEFORE INSERT ON pro
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER care_id_insert
+BEFORE INSERT ON cares
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER devices_id_insert
+BEFORE INSERT ON devices
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER diary_id_insert
+BEFORE INSERT ON diary
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER followup_id_insert
+BEFORE INSERT ON followup
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER patient_id_insert
+BEFORE INSERT ON patient
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER recipes_id_insert
+BEFORE INSERT ON recipes
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER report_pro_id_insert
+BEFORE INSERT ON report_pro
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER stats_id_insert
+BEFORE INSERT ON stats
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER subscription_id_insert
+BEFORE INSERT ON subscription
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER subs_pro_id_insert
+BEFORE INSERT ON subs_pro
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER fav_recipes_id_insert
+BEFORE INSERT ON fav_recipes
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER objectives_id_insert
+BEFORE INSERT ON objectives
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER recipe_comments_id_insert
+BEFORE INSERT ON recipe_comments
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER notifs_answers_id_insert
+BEFORE INSERT ON notifs_answers
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER sessions_id_insert
+BEFORE INSERT ON sessions
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER session_moods_id_insert
+BEFORE INSERT ON session_moods
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER global_stats_id_insert
+BEFORE INSERT ON global_stats
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER stats_requests_id_insert
+BEFORE INSERT ON stats_requests
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER obj_sport_id_insert
+BEFORE INSERT ON obj_sport
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER obj_meal_id_insert
+BEFORE INSERT ON obj_meal
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER session_recurr_id_insert
+BEFORE INSERT ON session_recurr
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER followup_id_update
+BEFORE UPDATE ON followup
+FOR EACH ROW
+BEGIN
+IF (`NEW`.`is_active`) THEN 
+	SET `NEW`.`date_inactive` = NOW();
+ELSE SET `NEW`.`date_inactive` = NULL;
+END IF;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER patient_likes_id_insert
+BEFORE INSERT ON patient_likes
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER pro_bill_id_insert
+BEFORE INSERT ON pro_bill
+FOR EACH ROW
+BEGIN
+SET `NEW`.`id` = UUID();
+END$$
+DELIMITER ;

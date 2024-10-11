@@ -1,0 +1,16 @@
+<h3>Bug Report - PATIENT</h3><br/>
+
+{% if (anonymous == "false") %}
+    <p>Adresse email de l'utilisateur: {{email}}</p><br/>
+    {% else %}
+    <p>Rapport anonyme</p><br/>
+{% endif %}
+
+<p>Explication du bug :</p>
+<p>{{explication}}</p><br/>
+
+<p>Cheminement du bug :</p>
+<p>{{cheminement}}</p><br/>
+
+<p>________________________</p>
+<p>Effectué le : {{date}}</p>

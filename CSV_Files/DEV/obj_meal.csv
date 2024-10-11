@@ -1,0 +1,120 @@
+﻿id;reporting_date;description;calories;patient_id;is_finished;creation_date
+1;2019-01-01;Bon;752;test_patient1;0;2019-04-11
+2;2019-01-02;Cuisson ratee;835;test_patient1;1;2019-04-11
+3;2019-01-03;Tristement trop bon;1036;test_patient1;1;2019-04-11
+4;2019-01-04;Plat contenant des trucs;1015;test_patient1;0;2019-04-11
+5;2019-01-05;Bon;882;test_patient1;1;2019-04-11
+6;2019-01-06;Cuisson ratee;869;test_patient1;1;2019-04-11
+7;2019-01-07;Tristement trop bon;881;test_patient1;0;2019-04-11
+8;2019-01-08;Plat contenant des trucs;1431;test_patient1;0;2019-04-11
+9;2019-01-09;Bon;937;test_patient1;1;2019-04-11
+10;2019-01-10;Cuisson ratee;980;test_patient1;1;2019-04-11
+11;2019-01-11;Tristement trop bon;1138;test_patient1;0;2019-04-11
+12;2019-01-12;Plat contenant des trucs;981;test_patient1;1;2019-04-11
+13;2019-01-13;Tres bon, cuisson parfaite et peu cher;731;test_patient1;0;2019-04-11
+14;2019-01-14;Prend beaucoup de temps a cuir;729;test_patient1;1;2019-04-11
+15;2019-01-15;Un bon BK;748;test_patient1;0;2019-04-11
+16;2019-01-16;Tacos parce que j'avais pas le temps;1407;test_patient1;1;2019-04-11
+17;2019-01-17;Bon;774;test_patient1;0;2019-04-11
+18;2019-01-18;Cuisson ratee;849;test_patient1;1;2019-04-11
+19;2019-01-19;Tristement trop bon;562;test_patient1;0;2019-04-11
+20;2019-01-20;Plat contenant des trucs;805;test_patient1;1;2019-04-11
+21;2019-01-21;Bon;793;test_patient1;0;2019-04-11
+22;2019-01-22;Cuisson ratee;830;test_patient1;1;2019-04-11
+23;2019-01-23;Tristement trop bon;1345;test_patient1;0;2019-04-11
+24;2019-01-24;Plat contenant des trucs;1262;test_patient1;1;2019-04-11
+25;2019-01-25;Bon;782;test_patient1;0;2019-04-11
+26;2019-01-26;Cuisson ratee;1390;test_patient1;1;2019-04-11
+27;2019-01-27;Tristement trop bon;698;test_patient1;0;2019-04-11
+28;2019-01-28;Plat contenant des trucs;1366;test_patient1;1;2019-04-11
+29;2019-01-29;Tres bon, cuisson parfaite et peu cher;928;test_patient1;0;2019-04-11
+30;2019-01-30;Prend beaucoup de temps a cuir;511;test_patient1;1;2019-04-11
+31;2019-01-31;Un bon BK;1335;test_patient1;0;2019-04-11
+32;2019-02-01;Tacos parce que j'avais pas le temps;510;test_patient1;1;2019-04-11
+33;2019-02-02;Bon;1262;test_patient1;1;2019-04-11
+34;2019-02-03;Cuisson ratee;891;test_patient1;1;2019-04-11
+35;2019-02-04;Tristement trop bon;1285;test_patient1;1;2019-04-11
+36;2019-02-05;Plat contenant des trucs;1351;test_patient1;1;2019-04-11
+37;2019-02-06;Bon;817;test_patient1;1;2019-04-11
+38;2019-02-07;Cuisson ratee;958;test_patient1;1;2019-04-11
+39;2019-02-08;Tristement trop bon;1158;test_patient1;0;2019-04-11
+40;2019-02-09;Plat contenant des trucs;1212;test_patient1;0;2019-04-11
+41;2019-02-10;Bon;1242;test_patient1;0;2019-04-11
+42;2019-02-11;Cuisson ratee;571;test_patient1;0;2019-04-11
+43;2019-02-12;Tristement trop bon;511;test_patient1;0;2019-04-11
+44;2019-02-13;Plat contenant des trucs;745;test_patient1;1;2019-04-11
+45;2019-02-14;Tres bon, cuisson parfaite et peu cher;1012;test_patient1;0;2019-04-11
+46;2019-02-15;Prend beaucoup de temps a cuir;515;test_patient1;1;2019-04-11
+47;2019-02-16;Un bon BK;1492;test_patient1;0;2019-04-11
+48;2019-02-17;Tacos parce que j'avais pas le temps;1119;test_patient1;1;2019-04-11
+49;2019-02-18;Bon;1011;test_patient1;0;2019-04-11
+50;2019-02-19;Cuisson ratee;1224;test_patient1;1;2019-04-11
+51;2019-02-20;Tristement trop bon;1326;test_patient1;0;2019-04-11
+52;2019-02-21;Plat contenant des trucs;1018;test_patient1;1;2019-04-11
+53;2019-02-22;Bon;512;test_patient1;0;2019-04-11
+54;2019-02-23;Cuisson ratee;668;test_patient1;1;2019-04-11
+55;2019-02-24;Tristement trop bon;975;test_patient1;1;2019-04-11
+56;2019-02-25;Plat contenant des trucs;1020;test_patient1;1;2019-04-11
+57;2019-02-26;Bon;1478;test_patient1;0;2019-04-11
+58;2019-02-27;Cuisson ratee;1072;test_patient1;0;2019-04-11
+59;2019-02-28;Tristement trop bon;1307;test_patient1;0;2019-04-11
+60;2019-03-01;Plat contenant des trucs;936;test_patient1;1;2019-04-11
+61;2019-03-02;Tres bon, cuisson parfaite et peu cher;849;test_patient1;1;2019-04-11
+62;2019-03-03;Prend beaucoup de temps a cuir;1454;test_patient1;1;2019-04-11
+63;2019-03-04;Un bon BK;673;test_patient1;0;2019-04-11
+64;2019-03-05;Tacos parce que j'avais pas le temps;1355;test_patient1;1;2019-04-11
+65;2019-03-06;Bon;1081;test_patient1;0;2019-04-11
+66;2019-03-07;Cuisson ratee;731;test_patient1;1;2019-04-11
+67;2019-03-08;Tristement trop bon;862;test_patient1;0;2019-04-11
+68;2019-03-09;Plat contenant des trucs;1231;test_patient1;1;2019-04-11
+69;2019-03-10;Bon;626;test_patient1;0;2019-04-11
+70;2019-03-11;Cuisson ratee;1276;test_patient1;1;2019-04-11
+71;2019-03-12;Tristement trop bon;1233;test_patient1;0;2019-04-11
+72;2019-03-13;Plat contenant des trucs;1478;test_patient1;1;2019-04-11
+73;2019-03-14;Bon;1206;test_patient1;0;2019-04-11
+74;2019-03-15;Cuisson ratee;1426;test_patient1;1;2019-04-11
+75;2019-03-16;Tristement trop bon;744;test_patient1;0;2019-04-11
+76;2019-03-17;Plat contenant des trucs;884;test_patient1;1;2019-04-11
+77;2019-03-18;Tres bon, cuisson parfaite et peu cher;1338;test_patient1;1;2019-04-11
+78;2019-03-19;Prend beaucoup de temps a cuir;1337;test_patient1;1;2019-04-11
+79;2019-03-20;Un bon BK;951;test_patient1;0;2019-04-11
+80;2019-03-21;Tacos parce que j'avais pas le temps;1364;test_patient1;0;2019-04-11
+81;2019-03-22;Bon;921;test_patient1;1;2019-04-11
+82;2019-03-23;Cuisson ratee;1366;test_patient1;0;2019-04-11
+83;2019-03-24;Tristement trop bon;821;test_patient1;1;2019-04-11
+84;2019-03-25;Plat contenant des trucs;656;test_patient1;0;2019-04-11
+85;2019-03-26;Bon;784;test_patient1;1;2019-04-11
+86;2019-03-27;Cuisson ratee;1445;test_patient1;0;2019-04-11
+87;2019-03-28;Tristement trop bon;531;test_patient1;1;2019-04-11
+88;2019-03-29;Plat contenant des trucs;707;test_patient1;0;2019-04-11
+89;2019-03-30;Bon;691;test_patient1;1;2019-04-11
+90;2019-03-31;Cuisson ratee;1102;test_patient1;0;2019-04-11
+91;2019-04-01;Tristement trop bon;1168;test_patient1;1;2019-04-11
+92;2019-04-02;Plat contenant des trucs;1178;test_patient1;1;2019-04-11
+93;2019-04-03;Tres bon, cuisson parfaite et peu cher;784;test_patient1;0;2019-04-11
+94;2019-04-04;Prend beaucoup de temps a cuir;702;test_patient1;0;2019-04-11
+95;2019-04-05;Un bon BK;641;test_patient1;1;2019-04-11
+96;2019-04-06;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+97;2019-04-07;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+98;2019-04-08;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+99;2019-11-24;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+100;2019-11-24;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+101;2019-11-24;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+102;2019-11-25;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+103;2019-11-25;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+104;2019-11-25;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+105;2019-11-26;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+106;2019-11-26;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+107;2019-11-26;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+108;2019-11-27;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+109;2019-11-27;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+110;2019-11-27;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+111;2019-11-28;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+112;2019-11-28;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+113;2019-11-28;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+114;2019-11-29;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+115;2019-11-29;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+116;2019-11-29;Steak frites pour ce midi;825;test_patient1;1;2019-04-11
+117;2019-11-30;Brunch au petit-dej;700;test_patient1;1;2019-04-11
+118;2019-11-30;Bœuf Bourguignon ce soir;500;test_patient1;1;2019-04-11
+119;2019-11-30;Steak frites pour ce midi;825;test_patient1;1;2019-04-11

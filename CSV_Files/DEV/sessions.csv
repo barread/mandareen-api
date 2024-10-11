@@ -1,0 +1,275 @@
+﻿id;patient_id;text_situation;text_mood;mood_global_degree;text_automatic;automatic_global_degree;text_rational;rational_global_degree;text_result;result_global_degree;status;creation_date
+1;test_patient1;Plutot cool;happyness;100;euhhh;100;Rationality out of bounds;100;happyness;95;Fini;2019-02-02
+2;test_patient2;Meh;happyness;100;patient 2;100;Rationality out of bounds;100;happyness;95;Fini;2019-02-02
+3;test_patient1;Pas hyper bien, je ne m entends pas avec ma mere;happyness;100;depression;100;Rationality out of bounds;55;happyness;95;Fini;2019-03-02
+4;test_patient3;Test patient 3;nothing;100;patient 3;100;Rationality out of bounds;100;happyness;95;Fini;2019-04-02
+5;test_patient1;Je me sens mieux;happyness;100;euhhh;100;Rationality out of bounds;100;happyness;95;Fini;2019-04-02
+6;test_patient1;Test Number 1 ;Empty;0;;0;;0;;0;Fini;2019-04-02
+7;test_patient1;Test Number 2;Empty;19;Test Number 2;14;Test Number 2;65;Test Number 2;44;Fini;2019-04-03
+8;test_patient1;Test Number 3;Empty;0;;0;;0;;0;Fini;2019-04-04
+9;test_patient1;Test Number 4;Empty;0;;0;;0;;0;Fini;2019-04-05
+10;test_patient1;Test Number 5;Empty;0;;0;;0;;0;Fini;2019-04-06
+11;test_patient1;Test Number 6;Empty;0;;0;;0;;0;Fini;2019-04-07
+12;test_patient1;Test Number 7;Empty;77;Test Number 7;83;Test Number 7;36;Test Number 7;42;Fini;2019-04-08
+13;test_patient1;Test Number 8;Empty;0;;0;;0;;0;Fini;2019-04-09
+14;test_patient1;Test Number 9;Empty;51;Test Number 9;78;Test Number 9;5;Test Number 9;81;Fini;2019-04-10
+15;test_patient1;Test Number 10;Empty;0;;0;;0;;0;Fini;2019-04-11
+16;test_patient1;Test Number 11;Empty;22;Test Number 11;45;Test Number 11;64;Test Number 11;84;Fini;2019-04-12
+17;test_patient1;Test Number 12;Empty;0;;0;;0;;0;Fini;2019-04-13
+18;test_patient1;Test Number 13;Empty;0;;0;;0;;0;Fini;2019-04-14
+19;test_patient1;Test Number 14;Empty;0;;0;;0;;0;Fini;2019-04-15
+20;test_patient1;Test Number 15;Empty;25;Test Number 15;100;Test Number 15;32;Test Number 15;46;Fini;2019-04-16
+21;test_patient1;Test Number 16;Empty;20;Test Number 16;83;Test Number 16;44;Test Number 16;61;Fini;2019-04-17
+22;test_patient1;Test Number 17;Empty;0;;0;;0;;0;Fini;2019-04-18
+23;test_patient1;Test Number 18;Empty;0;;0;;0;;0;Fini;2019-04-19
+24;test_patient1;Test Number 19;Empty;0;;0;;0;;0;Fini;2019-04-20
+25;test_patient1;Test Number 20;Empty;4;Test Number 20;46;Test Number 20;5;Test Number 20;99;Fini;2019-04-21
+26;test_patient1;Test Number 21;Empty;60;Test Number 21;73;Test Number 21;99;Test Number 21;21;Fini;2019-04-22
+27;test_patient1;Test Number 22;Empty;6;Test Number 22;78;Test Number 22;70;Test Number 22;7;Fini;2019-04-23
+28;test_patient1;Test Number 23;Empty;67;Test Number 23;98;Test Number 23;8;Test Number 23;82;Fini;2019-04-24
+29;test_patient1;Test Number 24;Empty;69;Test Number 24;74;Test Number 24;23;Test Number 24;10;Fini;2019-04-25
+30;test_patient1;Test Number 25;Empty;64;Test Number 25;62;Test Number 25;51;Test Number 25;89;Fini;2019-04-26
+31;test_patient1;Test Number 26;Empty;0;;0;;0;;0;Fini;2019-04-27
+32;test_patient1;Test Number 27;Empty;16;Test Number 27;7;Test Number 27;7;Test Number 27;58;Fini;2019-04-28
+33;test_patient1;Test Number 28;Empty;0;;0;;0;;0;Fini;2019-04-29
+34;test_patient1;Test Number 29;Empty;0;;0;;0;;0;Fini;2019-04-30
+35;test_patient1;Test Number 30;Empty;0;;0;;0;;0;Fini;2019-05-01
+36;test_patient1;Test Number 31;Empty;8;Test Number 31;89;Test Number 31;57;Test Number 31;49;Fini;2019-05-02
+37;test_patient1;Test Number 32;Empty;80;Test Number 32;88;Test Number 32;12;Test Number 32;33;Fini;2019-05-03
+38;test_patient1;Test Number 33;Empty;75;Test Number 33;52;Test Number 33;52;Test Number 33;70;Fini;2019-05-04
+39;test_patient1;Test Number 34;Empty;0;;0;;0;;0;Fini;2019-05-05
+40;test_patient1;Test Number 35;Empty;15;Test Number 35;30;Test Number 35;52;Test Number 35;94;Fini;2019-05-06
+41;test_patient1;Test Number 36;Empty;8;Test Number 36;15;Test Number 36;94;Test Number 36;18;Fini;2019-05-07
+42;test_patient1;Test Number 37;Empty;0;;0;;0;;0;Fini;2019-05-08
+43;test_patient1;Test Number 38;Empty;13;Test Number 38;47;Test Number 38;39;Test Number 38;74;Fini;2019-05-09
+44;test_patient1;Test Number 39;Empty;0;;0;;0;;0;Fini;2019-05-10
+45;test_patient1;Test Number 40;Empty;0;;0;;0;;0;Fini;2019-05-11
+46;test_patient1;Test Number 41;Empty;0;;0;;0;;0;Fini;2019-05-12
+47;test_patient1;Test Number 42;Empty;31;Test Number 42;43;Test Number 42;70;Test Number 42;50;Fini;2019-05-13
+48;test_patient1;Test Number 43;Empty;40;Test Number 43;72;Test Number 43;11;Test Number 43;30;Fini;2019-05-14
+49;test_patient1;Test Number 44;Empty;0;;0;;0;;0;Fini;2019-05-15
+50;test_patient1;Test Number 45;Empty;36;Test Number 45;49;Test Number 45;23;Test Number 45;4;Fini;2019-05-16
+51;test_patient1;Test Number 46;Empty;11;Test Number 46;39;Test Number 46;23;Test Number 46;11;Fini;2019-05-17
+52;test_patient1;Test Number 47;Empty;93;Test Number 47;92;Test Number 47;95;Test Number 47;16;Fini;2019-05-18
+53;test_patient1;Test Number 48;Empty;0;;0;;0;;0;Fini;2019-05-19
+54;test_patient1;Test Number 49;Empty;17;Test Number 49;99;Test Number 49;89;Test Number 49;11;Fini;2019-05-20
+55;test_patient1;Test Number 50;Empty;16;Test Number 50;25;Test Number 50;29;Test Number 50;9;Fini;2019-05-21
+56;test_patient1;Test Number 51;Empty;0;;0;;0;;0;Fini;2019-05-22
+57;test_patient1;Test Number 52;Empty;0;;0;;0;;0;Fini;2019-05-23
+58;test_patient1;Test Number 53;Empty;0;;0;;0;;0;Fini;2019-05-24
+59;test_patient1;Test Number 54;Empty;58;Test Number 54;21;Test Number 54;53;Test Number 54;38;Fini;2019-05-25
+60;test_patient1;Test Number 55;Empty;0;;0;;0;;0;Fini;2019-05-26
+61;test_patient1;Test Number 56;Empty;21;Test Number 56;40;Test Number 56;48;Test Number 56;86;Fini;2019-05-27
+62;test_patient1;Test Number 57;Empty;97;Test Number 57;49;Test Number 57;89;Test Number 57;66;Fini;2019-05-28
+63;test_patient1;Test Number 58;Empty;0;;0;;0;;0;Fini;2019-05-29
+64;test_patient1;Test Number 59;Empty;0;;0;;0;;0;Fini;2019-05-30
+65;test_patient1;Test Number 60;Empty;4;Test Number 60;58;Test Number 60;27;Test Number 60;24;Fini;2019-05-31
+66;test_patient1;Test Number 61;Empty;0;;0;;0;;0;Fini;2019-06-01
+67;test_patient1;Test Number 62;Empty;0;;0;;0;;0;Fini;2019-06-02
+68;test_patient1;Test Number 63;Empty;0;;0;;0;;0;Fini;2019-06-03
+69;test_patient1;Test Number 64;Empty;64;Test Number 64;36;Test Number 64;95;Test Number 64;70;Fini;2019-06-04
+70;test_patient1;Test Number 65;Empty;0;;0;;0;;0;Fini;2019-06-05
+71;test_patient1;Test Number 66;Empty;84;Test Number 66;93;Test Number 66;32;Test Number 66;13;Fini;2019-06-06
+72;test_patient1;Test Number 67;Empty;0;;0;;0;;0;Fini;2019-06-07
+73;test_patient1;Test Number 68;Empty;0;;0;;0;;0;Fini;2019-06-08
+74;test_patient1;Test Number 69;Empty;0;;0;;0;;0;Fini;2019-06-09
+75;test_patient1;Test Number 70;Empty;74;Test Number 70;83;Test Number 70;90;Test Number 70;53;Fini;2019-06-10
+76;test_patient1;Test Number 71;Empty;58;Test Number 71;54;Test Number 71;47;Test Number 71;85;Fini;2019-06-11
+77;test_patient1;Test Number 72;Empty;48;Test Number 72;19;Test Number 72;43;Test Number 72;50;Fini;2019-06-12
+78;test_patient1;Test Number 73;Empty;10;Test Number 73;98;Test Number 73;11;Test Number 73;99;Fini;2019-06-13
+79;test_patient1;Test Number 74;Empty;0;;0;;0;;0;Fini;2019-06-14
+80;test_patient1;Test Number 75;Empty;0;;0;;0;;0;Fini;2019-06-15
+81;test_patient1;Test Number 76;Empty;35;Test Number 76;28;Test Number 76;48;Test Number 76;11;Fini;2019-06-16
+82;test_patient1;Test Number 77;Empty;64;Test Number 77;21;Test Number 77;47;Test Number 77;90;Fini;2019-06-17
+83;test_patient1;Test Number 78;Empty;0;;0;;0;;0;Fini;2019-06-18
+84;test_patient1;Test Number 79;Empty;14;Test Number 79;25;Test Number 79;80;Test Number 79;67;Fini;2019-06-19
+85;test_patient1;Test Number 80;Empty;0;;0;;0;;0;Fini;2019-06-20
+86;test_patient1;Test Number 81;Empty;0;;0;;0;;0;Fini;2019-06-21
+87;test_patient1;Test Number 82;Empty;0;;0;;0;;0;Fini;2019-06-22
+88;test_patient1;Test Number 83;Empty;30;Test Number 83;64;Test Number 83;71;Test Number 83;36;Fini;2019-06-23
+89;test_patient1;Test Number 84;Empty;23;Test Number 84;64;Test Number 84;40;Test Number 84;43;Fini;2019-06-24
+90;test_patient1;Test Number 85;Empty;0;;0;;0;;0;Fini;2019-06-25
+91;test_patient1;Test Number 86;Empty;0;;0;;0;;0;Fini;2019-06-26
+92;test_patient1;Test Number 87;Empty;11;Test Number 87;72;Test Number 87;71;Test Number 87;36;Fini;2019-06-27
+93;test_patient1;Test Number 88;Empty;0;;0;;0;;0;Fini;2019-06-28
+94;test_patient1;Test Number 89;Empty;50;Test Number 89;95;Test Number 89;59;Test Number 89;37;Fini;2019-06-29
+95;test_patient1;Test Number 90;Empty;23;Test Number 90;72;Test Number 90;99;Test Number 90;48;Fini;2019-06-30
+96;test_patient1;Test Number 91;Empty;0;;0;;0;;0;Fini;2019-07-01
+97;test_patient1;Test Number 92;Empty;0;;0;;0;;0;Fini;2019-07-02
+98;test_patient1;Test Number 93;Empty;0;;0;;0;;0;Fini;2019-07-03
+99;test_patient1;Test Number 94;Empty;0;;0;;0;;0;Fini;2019-07-04
+100;test_patient1;Test Number 95;Empty;41;Test Number 95;11;Test Number 95;18;Test Number 95;34;Fini;2019-07-05
+101;test_patient1;Test Number 96;Empty;0;;0;;0;;0;Fini;2019-07-06
+102;test_patient1;Test Number 97;Empty;57;Test Number 97;27;Test Number 97;20;Test Number 97;77;Fini;2019-07-07
+103;test_patient1;Test Number 98;Empty;0;;0;;0;;0;Fini;2019-07-08
+104;test_patient1;Test Number 99;Empty;0;;0;;0;;0;Fini;2019-07-09
+105;test_patient1;Test Number 100;Empty;0;;0;;0;;0;Fini;2019-07-10
+106;test_patient1;Test Number 101;Empty;18;Test Number 101;15;Test Number 101;71;Test Number 101;75;Fini;2019-07-11
+107;test_patient1;Test Number 102;Empty;0;;0;;0;;0;Fini;2019-07-12
+108;test_patient1;Test Number 103;Empty;56;Test Number 103;53;Test Number 103;44;Test Number 103;16;Fini;2019-07-13
+109;test_patient1;Test Number 104;Empty;0;;0;;0;;0;Fini;2019-07-14
+110;test_patient1;Test Number 105;Empty;0;;0;;0;;0;Fini;2019-07-15
+111;test_patient1;Test Number 106;Empty;84;Test Number 106;17;Test Number 106;79;Test Number 106;69;Fini;2019-07-16
+112;test_patient1;Test Number 107;Empty;0;;0;;0;;0;Fini;2019-07-17
+113;test_patient1;Test Number 108;Empty;91;Test Number 108;48;Test Number 108;26;Test Number 108;15;Fini;2019-07-18
+114;test_patient1;Test Number 109;Empty;0;;0;;0;;0;Fini;2019-07-19
+115;test_patient1;Test Number 110;Empty;65;Test Number 110;14;Test Number 110;42;Test Number 110;28;Fini;2019-07-20
+116;test_patient1;Test Number 111;Empty;0;;0;;0;;0;Fini;2019-07-21
+117;test_patient1;Test Number 112;Empty;82;Test Number 112;51;Test Number 112;43;Test Number 112;12;Fini;2019-07-22
+118;test_patient1;Test Number 113;Empty;43;Test Number 113;85;Test Number 113;59;Test Number 113;1;Fini;2019-07-23
+119;test_patient1;Test Number 114;Empty;0;;0;;0;;0;Fini;2019-07-24
+120;test_patient1;Test Number 115;Empty;0;;0;;0;;0;Fini;2019-07-25
+121;test_patient1;Test Number 116;Empty;0;;0;;0;;0;Fini;2019-07-26
+122;test_patient1;Test Number 117;Empty;0;;0;;0;;0;Fini;2019-07-27
+123;test_patient1;Test Number 118;Empty;0;;0;;0;;0;Fini;2019-07-28
+124;test_patient1;Test Number 119;Empty;0;;0;;0;;0;Fini;2019-07-29
+125;test_patient1;Test Number 120;Empty;63;Test Number 120;42;Test Number 120;88;Test Number 120;16;Fini;2019-07-30
+126;test_patient1;Test Number 121;Empty;84;Test Number 121;8;Test Number 121;13;Test Number 121;91;Fini;2019-07-31
+127;test_patient1;Test Number 122;Empty;84;Test Number 122;29;Test Number 122;42;Test Number 122;12;Fini;2019-08-01
+128;test_patient1;Test Number 123;Empty;65;Test Number 123;23;Test Number 123;58;Test Number 123;48;Fini;2019-08-02
+129;test_patient1;Test Number 124;Empty;15;Test Number 124;13;Test Number 124;37;Test Number 124;90;Fini;2019-08-03
+130;test_patient1;Test Number 125;Empty;37;Test Number 125;47;Test Number 125;47;Test Number 125;61;Fini;2019-08-04
+131;test_patient1;Test Number 126;Empty;0;;0;;0;;0;Fini;2019-08-05
+132;test_patient1;Test Number 127;Empty;0;;0;;0;;0;Fini;2019-08-06
+133;test_patient1;Test Number 128;Empty;67;Test Number 128;2;Test Number 128;58;Test Number 128;95;Fini;2019-08-07
+134;test_patient1;Test Number 129;Empty;0;;0;;0;;0;Fini;2019-08-08
+135;test_patient1;Test Number 130;Empty;26;Test Number 130;8;Test Number 130;84;Test Number 130;7;Fini;2019-08-09
+136;test_patient1;Test Number 131;Empty;0;;0;;0;;0;Fini;2019-08-10
+137;test_patient1;Test Number 132;Empty;0;;0;;0;;0;Fini;2019-08-11
+138;test_patient1;Test Number 133;Empty;0;;0;;0;;0;Fini;2019-08-12
+139;test_patient1;Test Number 134;Empty;0;;0;;0;;0;Fini;2019-08-13
+140;test_patient1;Test Number 135;Empty;0;;0;;0;;0;Fini;2019-08-14
+141;test_patient1;Test Number 136;Empty;42;Test Number 136;70;Test Number 136;81;Test Number 136;38;Fini;2019-08-15
+142;test_patient1;Test Number 137;Empty;40;Test Number 137;71;Test Number 137;22;Test Number 137;40;Fini;2019-08-16
+143;test_patient1;Test Number 138;Empty;58;Test Number 138;66;Test Number 138;56;Test Number 138;57;Fini;2019-08-17
+144;test_patient1;Test Number 139;Empty;0;;0;;0;;0;Fini;2019-08-18
+145;test_patient1;Test Number 140;Empty;0;;0;;0;;0;Fini;2019-08-19
+146;test_patient1;Test Number 141;Empty;74;Test Number 141;94;Test Number 141;43;Test Number 141;70;Fini;2019-08-20
+147;test_patient1;Test Number 142;Empty;7;Test Number 142;48;Test Number 142;32;Test Number 142;59;Fini;2019-08-21
+148;test_patient1;Test Number 143;Empty;0;;0;;0;;0;Fini;2019-08-22
+149;test_patient1;Test Number 144;Empty;26;Test Number 144;58;Test Number 144;5;Test Number 144;65;Fini;2019-08-23
+150;test_patient1;Test Number 145;Empty;36;Test Number 145;9;Test Number 145;94;Test Number 145;41;Fini;2019-08-24
+151;test_patient1;Test Number 146;Empty;42;Test Number 146;74;Test Number 146;16;Test Number 146;55;Fini;2019-08-25
+152;test_patient1;Test Number 147;Empty;0;;0;;0;;0;Fini;2019-08-26
+153;test_patient1;Test Number 148;Empty;1;Test Number 148;73;Test Number 148;85;Test Number 148;45;Fini;2019-08-27
+154;test_patient1;Test Number 149;Empty;0;;0;;0;;0;Fini;2019-08-28
+155;test_patient1;Test Number 150;Empty;0;;0;;0;;0;Fini;2019-08-29
+156;test_patient1;Test Number 151;Empty;0;;0;;0;;0;Fini;2019-08-30
+157;test_patient1;Test Number 152;Empty;61;Test Number 152;18;Test Number 152;97;Test Number 152;96;Fini;2019-08-31
+158;test_patient1;Test Number 153;Empty;42;Test Number 153;67;Test Number 153;67;Test Number 153;4;Fini;2019-09-01
+159;test_patient1;Test Number 154;Empty;45;Test Number 154;12;Test Number 154;55;Test Number 154;36;Fini;2019-09-02
+160;test_patient1;Test Number 155;Empty;0;;0;;0;;0;Fini;2019-09-03
+161;test_patient1;Test Number 156;Empty;0;;0;;0;;0;Fini;2019-09-04
+162;test_patient1;Test Number 157;Empty;0;;0;;0;;0;Fini;2019-09-05
+163;test_patient1;Test Number 158;Empty;0;;0;;0;;0;Fini;2019-09-06
+164;test_patient1;Test Number 159;Empty;0;;0;;0;;0;Fini;2019-09-07
+165;test_patient2;Test Number 160;Empty;0;;0;;0;;0;Fini;2019-09-08
+166;test_patient2;Test Number 161;Empty;0;;0;;0;;0;Fini;2019-09-08
+167;test_patient2;Test Number 162;Empty;0;;0;;0;;0;Fini;2019-09-08
+168;test_patient2;Test Number 163;Empty;0;;0;;0;;0;Fini;2019-09-08
+169;test_patient2;Test Number 164;Empty;86;Test Number 164;13;Test Number 164;75;Test Number 164;32;Fini;2019-09-08
+170;test_patient2;Test Number 165;Empty;0;;0;;0;;0;Fini;2019-09-08
+171;test_patient2;Test Number 166;Empty;0;;0;;0;;0;Fini;2019-09-08
+172;test_patient2;Test Number 167;Empty;64;Test Number 167;94;Test Number 167;45;Test Number 167;61;Fini;2019-09-08
+173;test_patient2;Test Number 168;Empty;79;Test Number 168;39;Test Number 168;19;Test Number 168;78;Fini;2019-09-08
+174;test_patient2;Test Number 169;Empty;33;Test Number 169;82;Test Number 169;91;Test Number 169;71;Fini;2019-09-08
+175;test_patient2;Test Number 170;Empty;0;;0;;0;;0;Fini;2019-09-08
+176;test_patient2;Test Number 171;Empty;59;Test Number 171;63;Test Number 171;44;Test Number 171;91;Fini;2019-09-08
+177;test_patient2;Test Number 172;Empty;0;;0;;0;;0;Fini;2019-09-08
+178;test_patient2;Test Number 173;Empty;17;Test Number 173;14;Test Number 173;64;Test Number 173;49;Fini;2019-09-08
+179;test_patient2;Test Number 174;Empty;0;;0;;0;;0;Fini;2019-09-08
+180;test_patient2;Test Number 175;Empty;85;Test Number 175;35;Test Number 175;64;Test Number 175;56;Fini;2019-09-08
+181;test_patient2;Test Number 176;Empty;38;Test Number 176;53;Test Number 176;54;Test Number 176;10;Fini;2019-09-08
+182;test_patient2;Test Number 177;Empty;0;;0;;0;;0;Fini;2019-09-08
+183;test_patient2;Test Number 178;Empty;75;Test Number 178;78;Test Number 178;41;Test Number 178;40;Fini;2019-09-08
+184;test_patient2;Test Number 179;Empty;0;;0;;0;;0;Fini;2019-09-08
+185;test_patient2;Test Number 180;Empty;49;Test Number 180;64;Test Number 180;47;Test Number 180;83;Fini;2019-09-08
+186;test_patient2;Test Number 181;Empty;6;Test Number 181;87;Test Number 181;70;Test Number 181;93;Fini;2019-09-08
+187;test_patient2;Test Number 182;Empty;26;Test Number 182;80;Test Number 182;48;Test Number 182;84;Fini;2019-09-08
+188;test_patient2;Test Number 183;Empty;84;Test Number 183;65;Test Number 183;57;Test Number 183;99;Fini;2019-09-08
+189;test_patient2;Test Number 184;Empty;53;Test Number 184;36;Test Number 184;29;Test Number 184;4;Fini;2019-09-08
+190;test_patient2;Test Number 185;Empty;0;;0;;0;;0;Fini;2019-09-08
+191;test_patient2;Test Number 186;Empty;0;;0;;0;;0;Fini;2019-09-08
+192;test_patient2;Test Number 187;Empty;0;;0;;0;;0;Fini;2019-09-08
+193;test_patient2;Test Number 188;Empty;88;Test Number 188;26;Test Number 188;100;Test Number 188;76;Fini;2019-09-08
+194;test_patient2;Test Number 189;Empty;99;Test Number 189;93;Test Number 189;20;Test Number 189;35;Fini;2019-09-08
+195;test_patient2;Test Number 190;Empty;0;;0;;0;;0;Fini;2019-09-08
+196;test_patient2;Test Number 191;Empty;95;Test Number 191;76;Test Number 191;73;Test Number 191;9;Fini;2019-09-08
+197;test_patient2;Test Number 192;Empty;0;;0;;0;;0;Fini;2019-09-08
+198;test_patient2;Test Number 193;Empty;0;;0;;0;;0;Fini;2019-09-08
+199;test_patient2;Test Number 194;Empty;0;;0;;0;;0;Fini;2019-09-08
+200;test_patient2;Test Number 195;Empty;0;;0;;0;;0;Fini;2019-09-08
+201;test_patient2;Test Number 196;Empty;9;Test Number 196;11;Test Number 196;27;Test Number 196;57;Fini;2019-09-08
+202;test_patient2;Test Number 197;Empty;0;;0;;0;;0;Fini;2019-09-08
+203;test_patient2;Test Number 198;Empty;13;Test Number 198;71;Test Number 198;36;Test Number 198;9;Fini;2019-09-08
+204;test_patient2;Test Number 199;Empty;0;;0;;0;;0;Fini;2019-09-08
+205;test_patient2;Test Number 200;Empty;86;Test Number 200;80;Test Number 200;68;Test Number 200;18;Fini;2019-09-08
+206;test_patient2;Test Number 201;Empty;44;Test Number 201;76;Test Number 201;85;Test Number 201;20;Fini;2019-09-08
+207;test_patient2;Test Number 202;Empty;15;Test Number 202;96;Test Number 202;14;Test Number 202;74;Fini;2019-09-08
+208;test_patient2;Test Number 203;Empty;0;;0;;0;;0;Fini;2019-09-08
+209;test_patient2;Test Number 204;Empty;0;;0;;0;;0;Fini;2019-09-08
+210;test_patient2;Test Number 205;Empty;0;;0;;0;;0;Fini;2019-09-08
+211;test_patient2;Test Number 206;Empty;0;;0;;0;;0;Fini;2019-09-08
+212;test_patient2;Test Number 207;Empty;31;Test Number 207;42;Test Number 207;66;Test Number 207;27;Fini;2019-09-08
+213;test_patient2;Test Number 208;Empty;0;;0;;0;;0;Fini;2019-09-08
+214;test_patient2;Test Number 209;Empty;0;;0;;0;;0;Fini;2019-09-08
+215;test_patient2;Test Number 210;Empty;30;Test Number 210;63;Test Number 210;81;Test Number 210;11;Fini;2019-09-08
+216;test_patient2;Test Number 211;Empty;0;;0;;0;;0;Fini;2019-09-08
+217;test_patient2;Test Number 212;Empty;100;Test Number 212;8;Test Number 212;8;Test Number 212;41;Fini;2019-09-08
+218;test_patient2;Test Number 213;Empty;0;;0;;0;;0;Fini;2019-09-08
+219;test_patient2;Test Number 214;Empty;0;;0;;0;;0;Fini;2019-09-08
+220;test_patient2;Test Number 215;Empty;38;Test Number 215;7;Test Number 215;50;Test Number 215;33;Fini;2019-09-08
+221;test_patient2;Test Number 216;Empty;3;Test Number 216;93;Test Number 216;84;Test Number 216;11;Fini;2019-09-08
+222;test_patient2;Test Number 217;Empty;0;;0;;0;;0;Fini;2019-09-08
+223;test_patient2;Test Number 218;Empty;71;Test Number 218;87;Test Number 218;68;Test Number 218;20;Fini;2019-09-08
+224;test_patient2;Test Number 219;Empty;51;Test Number 219;99;Test Number 219;77;Test Number 219;88;Fini;2019-09-08
+225;test_patient2;Test Number 220;Empty;0;;0;;0;;0;Fini;2019-09-08
+226;test_patient2;Test Number 221;Empty;45;Test Number 221;37;Test Number 221;39;Test Number 221;15;Fini;2019-09-08
+227;test_patient2;Test Number 222;Empty;0;;0;;0;;0;Fini;2019-09-08
+228;test_patient2;Test Number 223;Empty;7;Test Number 223;29;Test Number 223;46;Test Number 223;46;Fini;2019-09-08
+229;test_patient2;Test Number 224;Empty;12;Test Number 224;43;Test Number 224;87;Test Number 224;33;Fini;2019-09-08
+230;test_patient2;Test Number 225;Empty;0;;0;;0;;0;Fini;2019-09-08
+231;test_patient2;Test Number 226;Empty;21;Test Number 226;81;Test Number 226;32;Test Number 226;75;Fini;2019-09-08
+232;test_patient2;Test Number 227;Empty;47;Test Number 227;11;Test Number 227;34;Test Number 227;80;Fini;2019-09-08
+233;test_patient2;Test Number 228;Empty;0;;0;;0;;0;Fini;2019-09-08
+234;test_patient2;Test Number 229;Empty;99;Test Number 229;68;Test Number 229;92;Test Number 229;83;Fini;2019-09-08
+235;test_patient2;Test Number 230;Empty;5;Test Number 230;30;Test Number 230;52;Test Number 230;35;Fini;2019-09-08
+236;test_patient2;Test Number 231;Empty;0;;0;;0;;0;Fini;2019-09-08
+237;test_patient2;Test Number 232;Empty;21;Test Number 232;48;Test Number 232;42;Test Number 232;8;Fini;2019-09-08
+238;test_patient2;Test Number 233;Empty;88;Test Number 233;22;Test Number 233;93;Test Number 233;73;Fini;2019-09-08
+239;test_patient2;Test Number 234;Empty;80;Test Number 234;75;Test Number 234;49;Test Number 234;26;Fini;2019-09-08
+240;test_patient2;Test Number 235;Empty;55;Test Number 235;65;Test Number 235;15;Test Number 235;66;Fini;2019-09-08
+241;test_patient2;Test Number 236;Empty;0;;0;;0;;0;Fini;2019-09-08
+242;test_patient2;Test Number 237;Empty;21;Test Number 237;2;Test Number 237;13;Test Number 237;65;Fini;2019-09-08
+243;test_patient2;Test Number 238;Empty;25;Test Number 238;33;Test Number 238;50;Test Number 238;38;Fini;2019-09-08
+244;test_patient2;Test Number 239;Empty;87;Test Number 239;85;Test Number 239;85;Test Number 239;12;Fini;2019-09-08
+245;test_patient2;Test Number 240;Empty;0;;0;;0;;0;Fini;2019-09-08
+246;test_patient2;Test Number 241;Empty;0;;0;;0;;0;Fini;2019-09-08
+247;test_patient2;Test Number 242;Empty;52;Test Number 242;96;Test Number 242;49;Test Number 242;5;Fini;2019-09-08
+248;test_patient2;Test Number 243;Empty;0;;0;;0;;0;Fini;2019-09-08
+249;test_patient2;Test Number 244;Empty;0;;0;;0;;0;Fini;2019-09-08
+250;test_patient2;Test Number 245;Empty;28;Test Number 245;19;Test Number 245;23;Test Number 245;59;Fini;2019-09-08
+251;test_patient2;Test Number 246;Empty;48;Test Number 246;30;Test Number 246;60;Test Number 246;66;Fini;2019-09-08
+252;test_patient2;Test Number 247;Empty;0;;0;;0;;0;Fini;2019-09-08
+253;test_patient2;Test Number 248;Empty;27;Test Number 248;49;Test Number 248;88;Test Number 248;65;Fini;2019-09-08
+254;test_patient2;Test Number 249;Empty;98;Test Number 249;80;Test Number 249;51;Test Number 249;10;Fini;2019-09-08
+255;test_patient2;Test Number 250;Empty;20;Test Number 250;99;Test Number 250;36;Test Number 250;72;Fini;2019-09-08
+256;test_patient2;Test Number 251;Empty;48;Test Number 251;28;Test Number 251;54;Test Number 251;93;Fini;2019-09-08
+257;test_patient2;Test Number 252;Empty;53;Test Number 252;41;Test Number 252;54;Test Number 252;37;Fini;2019-09-08
+258;test_patient2;Test Number 253;Empty;8;Test Number 253;78;Test Number 253;81;Test Number 253;65;Fini;2019-09-08
+259;test_patient2;Test Number 254;Empty;0;;0;;0;;0;Fini;2019-09-08
+260;test_patient2;Test Number 255;Empty;0;;0;;0;;0;Fini;2019-09-08
+261;test_patient2;Test Number 256;Empty;0;;0;;0;;0;Fini;2019-09-08
+262;test_patient2;Test Number 257;Empty;65;Test Number 257;16;Test Number 257;96;Test Number 257;78;Fini;2019-09-08
+263;test_patient2;Test Number 258;Empty;0;;0;;0;;0;Fini;2019-09-08
+264;test_patient2;Test Number 259;Empty;0;;0;;0;;0;Fini;2019-09-08
+265;test_patient2;Test Number 260;Empty;21;Test Number 260;91;Test Number 260;19;Test Number 260;91;Fini;2019-09-08
+266;test_patient2;Test Number 261;Empty;0;;0;;0;;0;Fini;2019-09-08
+267;test_patient2;Test Number 262;Empty;0;;0;;0;;0;Fini;2019-09-08
+268;test_patient2;Test Number 263;Empty;52;Test Number 263;5;Test Number 263;46;Test Number 263;10;Fini;2019-09-08
+269;test_patient2;Test Number 264;Empty;75;Test Number 264;29;Test Number 264;8;Test Number 264;93;Fini;2019-09-08
+270;test_patient2;Test Number 265;Empty;68;Test Number 265;16;Test Number 265;52;Test Number 265;79;Fini;2019-09-08
+271;test_patient2;Test Number 266;Empty;0;;0;;0;;0;Fini;2019-09-08
+272;test_patient2;Test Number 267;Empty;0;;0;;0;;0;Fini;2019-09-08
+273;test_patient2;Test Number 268;Empty;0;;0;;0;;0;Fini;2019-09-08
+274;test_patient2;Test Number 269;Empty;0;;0;;0;;0;Fini;2019-09-08

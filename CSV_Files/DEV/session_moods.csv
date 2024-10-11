@@ -1,0 +1,54 @@
+﻿id;session_id;mood_name;mood_degree;result_mood_degree;creation_date
+1;1;Colere;70;90;2019-02-02
+2;1;Fatigue;5;2;2019-02-02
+3;1;Joie;10;2;2019-02-02
+4;1;Mepris;5;2;2019-02-02
+5;1;Peur;10;4;2019-02-02
+6;2;Surprise;45;30;2019-02-02
+7;2;Fatigue;45;30;2019-02-02
+8;2;Joie;5;30;2019-02-02
+9;2;Mepris;5;10;2019-02-02
+10;3;Colere;10;10;2019-02-02
+11;3;Fatigue;50;50;2019-02-02
+12;3;Joie;10;10;2019-02-02
+13;3;Mepris;10;10;2019-02-02
+14;3;Peur;10;10;2019-02-02
+15;3;Envie;10;10;2019-02-02
+16;4;Jalousie;5;0;2019-02-02
+17;4;Surprise;10;15;2019-02-02
+18;4;Fatigue;20;25;2019-02-02
+19;4;Joie;5;0;2019-02-02
+20;4;Mepris;30;60;2019-02-02
+21;4;Tristesse;5;0;2019-02-02
+22;4;Feignantise;5;0;2019-02-02
+23;4;Rage;5;0;2019-02-02
+24;4;Ennui;5;0;2019-02-02
+25;4;Confiance;5;0;2019-02-02
+26;4;Contrariete;5;0;2019-02-02
+27;5;Extase;15;15;2019-02-02
+28;5;Surprise;20;20;2019-02-02
+29;5;Fatigue;15;15;2019-02-02
+30;5;Joie;20;20;2019-02-02
+31;5;Feignantise;10;10;2019-02-02
+32;5;Rage;5;5;2019-02-02
+33;5;Confiance;15;15;2019-02-02
+34;1;Test Surcharge Humeur 1;100;34;2019-02-03
+35;1;Test Surcharge Humeur 2;61;29;2019-02-04
+36;1;Test Surcharge Humeur 3;74;22;2019-02-05
+37;1;Test Surcharge Humeur 4;11;66;2019-02-06
+38;1;Test Surcharge Humeur 5;27;78;2019-02-07
+39;1;Test Surcharge Humeur 6;31;44;2019-02-08
+40;1;Test Surcharge Humeur 7;80;12;2019-02-09
+41;1;Test Surcharge Humeur 8;1;68;2019-02-10
+42;1;Test Surcharge Humeur 9;12;65;2019-02-11
+43;1;Test Surcharge Humeur 10;29;89;2019-02-12
+44;1;Test Surcharge Humeur 11;92;8;2019-02-13
+45;1;Test Surcharge Humeur 12;56;54;2019-02-14
+46;1;Test Surcharge Humeur 13;79;49;2019-02-15
+47;1;Test Surcharge Humeur 14;79;7;2019-02-16
+48;1;Test Surcharge Humeur 15;50;22;2019-02-17
+49;1;Test Surcharge Humeur 16;88;16;2019-02-18
+50;1;Test Surcharge Humeur 17;35;16;2019-02-19
+51;1;Test Surcharge Humeur 18;42;39;2019-02-20
+52;1;Test Surcharge Humeur 19;47;50;2019-02-21
+53;1;Test Surcharge Humeur 20;64;35;2019-02-22

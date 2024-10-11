@@ -1,0 +1,212 @@
+﻿id;reporting_date;duration;description;patient_id;is_finished;creation_date
+1;2019-01-01;329;Marche;test_patient1;0;2019-04-11
+2;2019-01-02;499;Marathon;test_patient1;0;2019-04-11
+3;2019-01-03;141;Course de fond;test_patient1;0;2019-04-11
+4;2019-01-04;499;Demi-fond;test_patient1;0;2019-04-11
+5;2019-01-05;389;Course d'obstacles;test_patient1;0;2019-04-11
+6;2019-01-06;128;Sprint;test_patient1;1;2019-04-11
+7;2019-01-07;451;Course de relais;test_patient1;0;2019-04-11
+8;2019-01-08;157;Lancer du disque;test_patient1;1;2019-04-11
+9;2019-01-09;300;Lancer du javelot;test_patient1;0;2019-04-11
+10;2019-01-10;282;Lancer du marteau;test_patient1;1;2019-04-11
+11;2019-01-11;395;Lancer du poids;test_patient1;1;2019-04-11
+12;2019-01-12;353;Saut en longueur;test_patient1;1;2019-04-11
+13;2019-01-13;469;Saut en hauteur;test_patient1;1;2019-04-11
+14;2019-01-14;247;Saut à la perche;test_patient1;0;2019-04-11
+15;2019-01-15;390;Triple saut;test_patient1;0;2019-04-11
+16;2019-01-16;403;Décathlon;test_patient1;0;2019-04-11
+17;2019-01-17;215;Heptathlon;test_patient1;0;2019-04-11
+18;2019-01-18;422;Balai-ballon sur glace;test_patient1;1;2019-04-11
+19;2019-01-19;197;Balle au tambourin;test_patient1;1;2019-04-11
+20;2019-01-20;105;Ballon au poing;test_patient1;1;2019-04-11
+21;2019-01-21;377;Bandy;test_patient1;1;2019-04-11
+22;2019-01-22;178;Baseball;test_patient1;1;2019-04-11
+23;2019-01-23;158;Basket-ball;test_patient1;1;2019-04-11
+24;2019-01-24;177;Beach Volley;test_patient1;1;2019-04-11
+25;2019-01-25;407;Beach Soccer;test_patient1;0;2019-04-11
+26;2019-01-26;487;Bouzkachi;test_patient1;0;2019-04-11
+27;2019-01-27;178;Calcio florentin;test_patient1;0;2019-04-11
+28;2019-01-28;265;Camogie;test_patient1;1;2019-04-11
+29;2019-01-29;295;Cricket;test_patient1;0;2019-04-11
+30;2019-01-30;337;Crosse;test_patient1;1;2019-04-11
+31;2019-01-31;234;Crosse ancienne;test_patient1;0;2019-04-11
+32;2019-02-01;168;Curling;test_patient1;1;2019-04-11
+33;2019-02-02;109;Floorball;test_patient1;0;2019-04-11
+34;2019-02-03;169;Football (ou soccer);test_patient1;1;2019-04-11
+35;2019-02-04;189;Football américain;test_patient1;0;2019-04-11
+36;2019-02-05;239;Football australien;test_patient1;1;2019-04-11
+37;2019-02-06;323;Football canadien;test_patient1;0;2019-04-11
+38;2019-02-07;404;Football en salle;test_patient1;1;2019-04-11
+39;2019-02-08;324;Football gaélique;test_patient1;0;2019-04-11
+40;2019-02-09;183;Jorkyball;test_patient1;1;2019-04-11
+41;2019-02-10;344;Handball;test_patient1;1;2019-04-11
+42;2019-02-11;467;Hockey en salle;test_patient1;0;2019-04-11
+43;2019-02-12;327;Hockey subaquatique;test_patient1;0;2019-04-11
+44;2019-02-13;350;Hockey sur gazon;test_patient1;0;2019-04-11
+45;2019-02-14;328;Hockey sur glace;test_patient1;0;2019-04-11
+46;2019-02-15;188;Horse-ball;test_patient1;0;2019-04-11
+47;2019-02-16;187;Hurling;test_patient1;0;2019-04-11
+48;2019-02-17;385;Kinball;test_patient1;1;2019-04-11
+49;2019-02-18;272;Korfball;test_patient1;1;2019-04-11
+50;2019-02-19;310;Longue paume;test_patient1;0;2019-04-11
+51;2019-02-20;444;Moto-ball;test_patient1;1;2019-04-11
+52;2019-02-21;395;Netball;test_patient1;0;2019-04-11
+53;2019-02-22;181;Paintball;test_patient1;1;2019-04-11
+54;2019-02-23;309;Pelota P'urhépecha;test_patient1;0;2019-04-11
+55;2019-02-24;151;Pelote basque;test_patient1;1;2019-04-11
+56;2019-02-25;129;Pesäpallo;test_patient1;0;2019-04-11
+57;2019-02-26;345;Polo;test_patient1;1;2019-04-11
+58;2019-02-27;285;Ringuette;test_patient1;1;2019-04-11
+59;2019-02-28;393;Rink-hockey;test_patient1;0;2019-04-11
+60;2019-03-01;290;Roller in line hockey;test_patient1;0;2019-04-11
+61;2019-03-02;143;Rounders;test_patient1;0;2019-04-11
+62;2019-03-03;207;Rugby à sept;test_patient1;1;2019-04-11
+63;2019-03-04;383;Rugby à XV;test_patient1;0;2019-04-11
+64;2019-03-05;118;Rugby à XIII;test_patient1;1;2019-04-11
+65;2019-03-06;455;Sepak Takraw;test_patient1;0;2019-04-11
+66;2019-03-07;479;Shinty;test_patient1;1;2019-04-11
+67;2019-03-08;137;Slamball;test_patient1;0;2019-04-11
+68;2019-03-09;290;Softball;test_patient1;1;2019-04-11
+69;2019-03-10;293;Stoolball;test_patient1;0;2019-04-11
+70;2019-03-11;376;Street-hockey;test_patient1;1;2019-04-11
+71;2019-03-12;305;Tchoukball;test_patient1;0;2019-04-11
+72;2019-03-13;498;Touch rugby;test_patient1;1;2019-04-11
+73;2019-03-14;323;Town ball;test_patient1;0;2019-04-11
+74;2019-03-15;201;Ultimate;test_patient1;1;2019-04-11
+75;2019-03-16;460;Unihockey (Floorball);test_patient1;0;2019-04-11
+76;2019-03-17;153;Vigoro;test_patient1;1;2019-04-11
+77;2019-03-18;130;Volley-ball;test_patient1;1;2019-04-11
+78;2019-03-19;201;Volata;test_patient1;0;2019-04-11
+79;2019-03-20;146;Water polo;test_patient1;1;2019-04-11
+80;2019-03-21;161;Acrosport;test_patient1;0;2019-04-11
+81;2019-03-22;268;Aérobic;test_patient1;1;2019-04-11
+82;2019-03-23;244;Gymnastique artistique;test_patient1;0;2019-04-11
+83;2019-03-24;106;Gymnastique rythmique;test_patient1;1;2019-04-11
+84;2019-03-25;405;Trampoline;test_patient1;0;2019-04-11
+85;2019-03-26;468;Tumbling;test_patient1;1;2019-04-11
+86;2019-03-27;258;Twirling bâton;test_patient1;1;2019-04-11
+87;2019-03-28;358;Triathlon;test_patient1;1;2019-04-11
+88;2019-03-29;221;Pentathlon moderne;test_patient1;0;2019-04-11
+89;2019-03-30;420;Unifight;test_patient1;1;2019-04-11
+90;2019-03-31;147;Formule 1;test_patient1;0;2019-04-11
+91;2019-04-01;459;GP2 Series;test_patient1;1;2019-04-11
+92;2019-04-02;363;Formule 3;test_patient1;0;2019-04-11
+93;2019-04-03;112;Champcar;test_patient1;1;2019-04-11
+94;2019-04-04;176;Indy Racing League;test_patient1;0;2019-04-11
+95;2019-04-05;121;24 Heures du Mans;test_patient1;1;2019-04-11
+96;2019-04-06;240;Le Mans Series;test_patient1;1;2019-04-11
+97;2019-04-07;104;Karting;test_patient1;0;2019-04-11
+98;2019-04-08;405;Nascar;test_patient1;0;2019-04-11
+99;2019-04-09;303;DTM;test_patient1;0;2019-04-11
+100;2019-04-10;461;WRC (Rallye);test_patient1;1;2019-04-11
+101;2019-04-11;303;WTCC;test_patient1;0;2019-04-11
+102;2019-04-12;322;A1 Grand prix;test_patient1;1;2019-04-11
+103;2019-04-13;425;Fol'Car;test_patient1;0;2019-04-11
+104;2019-04-14;119;Autocross;test_patient1;1;2019-04-11
+105;2019-04-15;364;Rallycross;test_patient1;0;2019-04-11
+106;2019-04-16;332;Dragster;test_patient1;1;2019-04-11
+107;2019-04-17;184;Tractor pulling;test_patient1;0;2019-04-11
+108;2019-04-18;441;Course de camions;test_patient1;1;2019-04-11
+109;2019-04-19;147;Legends Cars;test_patient1;1;2019-04-11
+110;2019-04-20;162;Endurance moto;test_patient1;0;2019-04-11
+111;2019-04-21;299;Enduro;test_patient1;0;2019-04-11
+112;2019-04-22;179;Freestyle motocross;test_patient1;1;2019-04-11
+113;2019-04-23;499;Motocross;test_patient1;0;2019-04-11
+114;2019-04-24;492;Supermotard;test_patient1;1;2019-04-11
+115;2019-04-25;115;Moto sur glace;test_patient1;0;2019-04-11
+116;2019-04-26;154;Trial;test_patient1;1;2019-04-11
+117;2019-04-27;457;Speedway;test_patient1;0;2019-04-11
+118;2019-04-28;316;Stunt;test_patient1;1;2019-04-11
+119;2019-04-29;393;Vitesse moto;test_patient1;0;2019-04-11
+120;2019-04-30;284;Moto-ball;test_patient1;1;2019-04-11
+121;2019-05-01;482;Motonautisme;test_patient1;1;2019-04-11
+122;2019-05-02;430;Motoneige;test_patient1;0;2019-04-11
+123;2019-05-03;202;Badminton;test_patient1;0;2019-04-11
+124;2019-05-04;423;Jeu de paume;test_patient1;0;2019-04-11
+125;2019-05-05;458;Padel;test_patient1;0;2019-04-11
+126;2019-05-06;205;Peloc;test_patient1;1;2019-04-11
+127;2019-05-07;123;Pelote basque;test_patient1;0;2019-04-11
+128;2019-05-08;105;Racketlon;test_patient1;1;2019-04-11
+129;2019-05-09;154;Racquetball;test_patient1;0;2019-04-11
+130;2019-05-10;150;Speed Badminton;test_patient1;1;2019-04-11
+131;2019-05-11;217;Speed-ball;test_patient1;0;2019-04-11
+132;2019-05-12;458;Squash;test_patient1;1;2019-04-11
+133;2019-05-13;359;Tennis;test_patient1;0;2019-04-11
+134;2019-05-14;294;Tennis de table;test_patient1;1;2019-04-11
+135;2019-05-15;399;Agility;test_patient1;1;2019-04-11
+136;2019-05-16;380;Obé rythmée;test_patient1;0;2019-04-11
+137;2019-05-17;367;Course camarguaise;test_patient1;0;2019-04-11
+138;2019-05-18;364;Course de chameaux;test_patient1;0;2019-04-11
+139;2019-05-19;422;Course de chars;test_patient1;1;2019-04-11
+140;2019-05-20;315;Course de traîneaux;test_patient1;1;2019-04-11
+141;2019-05-21;114;Sport hippique;test_patient1;0;2019-04-11
+142;2019-05-22;312;Sports équestres;test_patient1;1;2019-04-11
+143;2019-05-23;448;Amazone;test_patient1;0;2019-04-11
+144;2019-05-24;220;Attelage;test_patient1;1;2019-04-11
+145;2019-05-25;452;Attelage de tradition;test_patient1;0;2019-04-11
+146;2019-05-26;411;Concours complet;test_patient1;1;2019-04-11
+147;2019-05-27;378;Doma Vaquera;test_patient1;0;2019-04-11
+148;2019-05-28;448;Dressage;test_patient1;1;2019-04-11
+149;2019-05-29;396;Endurance;test_patient1;1;2019-04-11
+150;2019-05-30;156;Équitation Camargue;test_patient1;0;2019-04-11
+151;2019-05-31;305;Équitation islandaise;test_patient1;0;2019-04-11
+152;2019-06-01;487;Équitation Western;test_patient1;0;2019-04-11
+153;2019-06-02;285;Horse-ball;test_patient1;1;2019-04-11
+154;2019-06-03;334;Hunter;test_patient1;0;2019-04-11
+155;2019-06-04;469;Oulak;test_patient1;1;2019-04-11
+156;2019-06-05;274;Polo;test_patient1;0;2019-04-11
+157;2019-06-06;302;Polocrosse;test_patient1;1;2019-04-11
+158;2019-06-07;170;Pony games;test_patient1;0;2019-04-11
+159;2019-06-08;403;Saut d'obstacles;test_patient1;1;2019-04-11
+160;2019-06-09;140;Ski joëring;test_patient1;0;2019-04-11
+161;2019-06-10;371;TREC;test_patient1;1;2019-04-11
+162;2019-06-11;354;Voltige en Cercle;test_patient1;1;2019-04-11
+163;2019-06-12;187;Sports équestres;test_patient1;0;2019-04-11
+164;2019-06-13;416;Amazone;test_patient1;0;2019-04-11
+165;2019-06-14;483;Attelage;test_patient1;0;2019-04-11
+166;2019-06-15;210;Attelage de tradition;test_patient1;1;2019-04-11
+167;2019-06-16;259;Sports équestres;test_patient1;0;2019-04-11
+168;2019-06-17;416;Amazone;test_patient1;1;2019-04-11
+169;2019-06-18;130;Attelage;test_patient1;0;2019-04-11
+170;2019-06-19;469;Attelage de tradition;test_patient1;1;2019-04-11
+171;2019-06-20;139;Sports équestres;test_patient1;0;2019-04-11
+172;2019-06-21;333;Amazone;test_patient1;1;2019-04-11
+173;2019-06-22;134;Attelage;test_patient1;0;2019-04-11
+174;2019-06-23;278;Attelage de tradition;test_patient1;1;2019-04-11
+175;2019-06-24;483;Sports équestres;test_patient1;1;2019-04-11
+176;2019-06-25;373;Amazone;test_patient1;0;2019-04-11
+177;2019-06-26;245;Attelage;test_patient1;0;2019-04-11
+178;2019-06-27;236;Dragster;test_patient1;0;2019-04-11
+179;2019-06-28;176;Tractor pulling;test_patient1;1;2019-04-11
+180;2019-06-29;341;Course de camions;test_patient1;0;2019-04-11
+181;2019-06-30;431;Legends Cars;test_patient1;1;2019-04-11
+182;2019-07-01;385;Endurance moto;test_patient1;0;2019-04-11
+183;2019-07-02;363;Enduro;test_patient1;1;2019-04-11
+184;2019-07-03;170;Freestyle motocross;test_patient1;0;2019-04-11
+185;2019-07-04;136;Motocross;test_patient1;1;2019-04-11
+186;2019-07-05;145;Supermotard;test_patient1;0;2019-04-11
+187;2019-07-06;344;Dragster;test_patient1;1;2019-04-11
+188;2019-07-07;429;Tractor pulling;test_patient1;1;2019-04-11
+189;2019-07-08;248;Course de camions;test_patient1;0;2019-04-11
+190;2019-07-09;123;Legends Cars;test_patient1;1;2019-04-11
+191;2019-07-10;323;Endurance moto;test_patient1;0;2019-04-11
+192;2019-07-11;404;Enduro;test_patient1;1;2019-04-11
+193;2019-07-12;220;Freestyle motocross;test_patient1;0;2019-04-11
+194;2019-07-13;444;Motocross;test_patient1;1;2019-04-11
+195;2019-07-14;480;Supermotard;test_patient1;0;2019-04-11
+196;2019-07-15;465;Enduro;test_patient1;1;2019-04-11
+197;2019-07-16;410;Freestyle motocross;test_patient1;0;2019-04-11
+198;2019-07-17;493;Motocross;test_patient1;1;2019-04-11
+199;2019-07-18;479;Motocross;test_patient1;1;2019-04-11
+200;2019-11-24;500;Course de camions;test_patient1;1;2019-04-11
+201;2019-11-24;500;Marathon;test_patient1;0;2019-04-11
+202;2019-11-25;500;Course de camions;test_patient1;1;2019-04-11
+203;2019-11-25;500;Marathon;test_patient1;0;2019-04-11
+204;2019-11-26;500;Course de camions;test_patient1;1;2019-04-11
+205;2019-11-26;500;Marathon;test_patient1;0;2019-04-11
+206;2019-11-27;500;Course de camions;test_patient1;1;2019-04-11
+207;2019-11-27;500;Marathon;test_patient1;0;2019-04-11
+208;2019-11-28;500;Course de camions;test_patient1;1;2019-04-11
+209;2019-11-28;500;Marathon;test_patient1;0;2019-04-11
+210;2019-11-29;500;Course de camions;test_patient1;1;2019-04-11
+211;2019-11-29;500;Marathon;test_patient1;0;2019-04-11
