@@ -1,4 +1,11 @@
-﻿## Pré-requis
+﻿## Contexte
+
+Mandareen était mon projet de fin d'étude, ce projet comportait une équipe de 8 personnes.
+
+Mandareen était une suite applicative regroupant une application mobile, deux interfaces web et une API REST
+Le projet visait à créer un outils d'aide au suivit pour les médecins et leurs patients atteint de trouble du comportement alimentaire.
+
+## Pré-requis
 
 - NodeJS: (>=8.9.0) - https://nodejs.org/
 - Wamp : http://www.wampserver.com/en/download-wampserver-64bits/
