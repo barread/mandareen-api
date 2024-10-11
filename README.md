@@ -1,6 +1,6 @@
 ﻿## Contexte
 
-Mandareen était mon projet de fin d'étude, ce projet comportait une équipe de 8 personnes.
+Mandareen était mon projet de fin d'étude, débuté en 2018 terminé en 2020, ce projet comportait une équipe de 8 personnes.
 
 Mandareen était une suite applicative regroupant une application mobile, deux interfaces web et une API REST
 Le projet visait à créer un outils d'aide au suivit pour les médecins et leurs patients atteint de trouble du comportement alimentaire.
